@@ -1,4 +1,2 @@
-Sakib Hasan
-10 4.3
-Rakib Hasan
-20 4.7
+7
+10 50 300 40 20 7 80
